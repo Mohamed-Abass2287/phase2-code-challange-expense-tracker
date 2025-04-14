@@ -16,6 +16,7 @@ function ExpenseList({ expenses }) {
   return (
     <div>
       <h2>Expense List</h2>
+      <p>Track your financial expenses.Record,categorize and analyze your spending </p>
       <input
         type="text"
         placeholder="Search expenses..."
